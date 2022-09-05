@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt /run/ | head 
+ls -lt /run/ . | head -10 
