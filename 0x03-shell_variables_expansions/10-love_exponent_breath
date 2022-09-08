@@ -1,2 +1,2 @@
 #!/bin/bash
-BREATH=4 LOVE=3 | echo expr $BREATH ^ $LOVE
+BREATH=4 LOVE=3 | expr $BREATH ^ $LOVE
