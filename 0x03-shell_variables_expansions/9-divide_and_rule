@@ -1,2 +1,2 @@
 #!/bin/bash
-POWER=42784 | DIVIDE=32 | expr $POWER/$DIVIDE
+POWER=42784 | DIVIDE=32 | echo expr $POWER/$DIVIDE
