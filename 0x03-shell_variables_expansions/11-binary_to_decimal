@@ -1,0 +1,2 @@
+#!/bin/bash
+BINARY=10100111001 obase=10 ibase=2 | echo '$obase $ibase $BINARY' | bc
